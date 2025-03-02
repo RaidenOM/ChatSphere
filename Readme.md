@@ -6,19 +6,19 @@ ChatSphere is a simple, real-time chat application built with React Native. It a
 
 ## Features
 
-1. User Authentication:
+1. **User Authentication**:
    - Set a username to join the chat.
-2. Room Management:
+2. **Room Management**:
    - View a list of available chat rooms.
    - Create new chat rooms.
-3. Real-Time Messaging:
+3. **Real-Time Messaging**:
    - Send and receive messages in real-time using WebSocket.
    - Display the last 10 messages in a room.
-4. Notifications:
+4. **Notifications**:
    - Notify users when someone joins or leaves a room.
-5. Theme Support:
+5. **Theme Support**:
    - Toggle between light and dark themes.
-6. Error Handling:
+6. **Error Handling**:
    - Gracefully handle API and WebSocket errors.
 
 ## Technologies Used
